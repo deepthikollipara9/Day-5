@@ -1,6 +1,6 @@
 # Day 5- 09 Feb 2025
 
-1) Exporing more pandas function  from  official [site]((https://pandas.pydata.org/docs/user_guide/10min.html#min)
+1) Exporing more pandas function  from  official [site](https://pandas.pydata.org/docs/user_guide/10min.html#min)
 2) Used chatgpt to understand few unknown topic in pandas
      - Upload the question you have doughts in
     ```
